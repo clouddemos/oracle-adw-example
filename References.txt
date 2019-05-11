@@ -1,0 +1,42 @@
+Oracle Autonomous DB Cloud
+
+https://www.youtube.com/watch?v=cJxmowxEsRA
+https://searchoracle.techtarget.com/definition/Oracle-Autonomous-Database
+https://docs.cloud.oracle.com/iaas/Content/serviceessentials.htm
+https://docs.oracle.com/en/cloud/paas/atp-cloud/atpug/connect-sql-dev182.html#GUID-14217939-3E8F-4782-BFF2-021199A908FD
+https://blog.dbi-services.com/sys-password-on-oracle-cloud-service-managed-database/
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/adwc/OBE_Provisioning_Autonomous_Data_Warehouse_Cloud_bak/provisioning_autonomous_data_warehouse_cloud.html
+https://github.com/awesomedata/awesome-public-datasets#software
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html
+https://docs.cloud.oracle.com/iaas/Content/Database/Tasks/network.htm
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/python/getting-started-python-accs/getting-started-python-accs.html
+https://blogs.oracle.com/developers/oracle-cloud-inception-and-the-rest-v2
+https://oracle-base.com/articles/vm/oracle-cloud-infrastructure-oci-create-a-database-vm#ssh
+
+SQL Developer
+
+https://martinminnock.com/2013/08/02/sql-developer-io-error-got-minus-one-from-a-read-call/
+https://docs.cloud.oracle.com/iaas/Content/Compute/Tasks/accessinginstance.htm
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/paas/accessdbinstance/accessdbinstance.html#section2
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/paas/accessdbinstance/accessdbinstance.html
+https://www.thatjeffsmith.com/archive/2012/04/how-to-import-from-excel-to-oracle-with-sql-developer/
+
+Oracle core
+
+https://oracle-base.com/articles/12c/identity-columns-in-oracle-12cr1
+https://docs.oracle.com/cd/B28359_01/server.111/b28318/datatype.htm#CNCPT1834
+https://www.techonthenet.com/oracle/unique.php
+https://dzone.com/articles/quick-guide-to-user-defined-types-in-oracle-plsql
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_6014.htm
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_8003.htm#i2065278
+https://docs.oracle.com/cd/B19306_01/server.102/b14220/physical.htm
+https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_7003.htm
+https://docs.oracle.com/cd/B28359_01/server.111/b28286/statements_6015.htm#SQLRF01314
+https://docs.oracle.com/cd/A97630_01/text.920/a96518/cqspcl.htm
+
+Excel core
+
+https://smallbusiness.chron.com/concatenate-double-quotation-marks-excel-27505.html
+https://exceljet.net/excel-functions/excel-concatenate-function
+https://www.techonthenet.com/excel/formulas/isblank.php
+https://exceljet.net/excel-functions/excel-isna-function
