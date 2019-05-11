@@ -12,6 +12,8 @@ https://docs.cloud.oracle.com/iaas/Content/Database/Tasks/network.htm
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/python/getting-started-python-accs/getting-started-python-accs.html
 https://blogs.oracle.com/developers/oracle-cloud-inception-and-the-rest-v2
 https://oracle-base.com/articles/vm/oracle-cloud-infrastructure-oci-create-a-database-vm#ssh
+https://oracle.github.io/learning-library/workshops/journey4-adwc/?page=README.md
+https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/connect-preparing.html#GUID-3667EC68-930E-4566-95B3-DFA24203A8FF
 
 SQL Developer
 
