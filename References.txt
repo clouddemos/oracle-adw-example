@@ -22,6 +22,7 @@ https://docs.cloud.oracle.com/iaas/Content/Compute/Tasks/accessinginstance.htm
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/paas/accessdbinstance/accessdbinstance.html#section2
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/paas/accessdbinstance/accessdbinstance.html
 https://www.thatjeffsmith.com/archive/2012/04/how-to-import-from-excel-to-oracle-with-sql-developer/
+https://www.oracle.com/database/technologies/appdev/datamodeler.html
 
 Oracle core
 
@@ -36,9 +37,10 @@ https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_7003.htm
 https://docs.oracle.com/cd/B28359_01/server.111/b28286/statements_6015.htm#SQLRF01314
 https://docs.oracle.com/cd/A97630_01/text.920/a96518/cqspcl.htm
 
-Excel core
+Jupyter Lab
 
-https://smallbusiness.chron.com/concatenate-double-quotation-marks-excel-27505.html
-https://exceljet.net/excel-functions/excel-concatenate-function
-https://www.techonthenet.com/excel/formulas/isblank.php
-https://exceljet.net/excel-functions/excel-isna-function
+https://pypi.org/project/ipython-sql/
+https://github.com/LucaCanali/Miscellaneous/blob/master/Oracle_Jupyter/Oracle_IPython_cx_Oracle_pandas.ipynb
+https://shortcutworld.com/Jupyter-Notebook/win/Jupyter-Notebook_Shortcuts
+https://www.youtube.com/watch?v=ZyTO4SwhSeE
+
